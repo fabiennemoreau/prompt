@@ -54,7 +54,10 @@ Remarque : 2h CM - 8h TD
 	- autres fonctions utiles
 - Exercices applicatifs
 
+## Révisions (60'')
+- Exercices de synthèse
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODM5NTQ4NF19
+eyJoaXN0b3J5IjpbMzk3MjgwNTkyXX0=
 -->
