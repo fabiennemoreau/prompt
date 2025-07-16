@@ -1,4 +1,36 @@
-<h1 id="introduction-à-la-programmation">Introduction à la programmation</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Syllabus</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#introduction-à-la-programmation">Introduction à la programmation</a>
+<ul>
+<li><a href="#informations-pratiques">Informations pratiques</a></li>
+<li><a href="#description-du-cours">Description du cours</a></li>
+<li><a href="#pré-requis">Pré-requis</a></li>
+<li><a href="#objectifs-et-méthodes-d’apprentissage">Objectifs et méthodes d’apprentissage</a></li>
+<li><a href="#organisation-des-séances">Organisation des séances</a></li>
+<li><a href="#liens-avec-les-autres-cours-de-la-formation">Liens avec les autres cours de la formation</a></li>
+<li><a href="#évaluation">Évaluation</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="introduction-à-la-programmation">Introduction à la programmation</h1>
 <h2 id="informations-pratiques">Informations pratiques</h2>
 <ul>
 <li>
@@ -214,3 +246,8 @@ Durée de l’épreuve : 1h<br>
 À noter : l’examen aura lieu sur papier (et non sur ordinateur)<br>
 Il prendra la forme de 2 ou 3 exercices. Pour chacun, il vous faudra décomposer un problème en  une série d’opérations (algorithme) et rédiger  le code correspondant en Javascript.</p>
 
+    </div>
+  </div>
+</body>
+
+</html>
