@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Syllabus</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#introduction-à-la-programmation">Introduction à la programmation</a>
+<ul>
+<li><a href="#informations-pratiques">Informations pratiques</a></li>
+<li><a href="#description-du-cours">Description du cours</a></li>
+<li><a href="#pré-requis">Pré-requis</a></li>
+<li><a href="#objectifs-et-méthodes-d’apprentissage">Objectifs et méthodes d’apprentissage</a></li>
+<li><a href="#organisation-des-séances">Organisation des séances</a></li>
+<li><a href="#liens-avec-les-autres-cours-de-la-formation">Liens avec les autres cours de la formation</a></li>
+<li><a href="#évaluation">Évaluation</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="introduction-à-la-programmation">Introduction à la programmation</h1>
+<h2 id="informations-pratiques">Informations pratiques</h2>
+<ul>
+<li>
+<p><strong>Code enseignement</strong> : 02XB713</p>
+</li>
+<li>
+<p><strong>Crédits ECTS</strong> : 1</p>
+</li>
+<li>
+<p><strong>Public concerné</strong> : étudiants en 1ère année du Master Traduction et interprétation (tronc commun)</p>
+</li>
+<li>
+<p><strong>Date</strong> :	Semestre 7 : du mercredi 10 septembre 2025 au jeudi 16 octobre 2025</p>
+</li>
+<li>
+<p><strong>Volume horaire</strong> : 2hCM - 8hTD</p>
+</li>
+<li>
+<p><strong>Horaires</strong> : Mercredi 13h45-15h45</p>
+</li>
+<li>
+<p><strong>Salle</strong> :</p>
+</li>
+<li>
+<p><strong>Enseignant</strong> : <strong>Fabienne Moreau</strong>, bureau U212<br>
+Courriel :  <a href="mailto:fabienne.moreau@univ-rennes2.fr">fabienne.moreau@univ-rennes2.fr</a><br>
+Heure de permanences : sur rdv<br>
+N’hésitez pas à me contacter en cas de questions, difficultés ou besoins de clarification.</p>
+</li>
+<li>
+<p><strong>Supports pédagogiques</strong> :  Espace-cours Cursus [<a href="https://cursus.univ-rennes2.fr/course/view.php?id=5662">https://cursus.univ-rennes2.fr/course/view.php?id=5662</a>]</p>
+</li>
+<li>
+<p><strong>Matériel nécessaire</strong> :</p>
+<ul>
+<li>un ordinateur (Windows, Mac ou Linux)</li>
+<li>un éditeur de texte (ex : Notepad++ sous Windows ou Sublime Text sous Mac)</li>
+<li>un navigateur Web</li>
+</ul>
+</li>
+</ul>
+<h2 id="description-du-cours"><strong>Description du cours</strong></h2>
+<p>Ce cours propose une initiation progressive à la programmation. Après une présentation des concepts fondamentaux (algorithme, variable, instruction) et une introduction au langage Javascript, les étudiants apprendront à écrire leurs premiers programmes, à manipuler les entrées/sorties, à utiliser les opérateurs élémentaires ainsi que des structures de contrôle plus avancées avec une attention particulière portée à la manipulation de chaînes de caractères.<br>
+L’approche pédagogique repose sur une alternance entre explications théoriques et exercices pratiques pour expérimenter la résolution de problèmes simples, avec un temps de révision en fin de module.</p>
+<p><strong>Nouveauté 2025-2026</strong><br>
+Participation au projet de recherche <code>Prompt</code> - Enseigner et apprendre avec l’intelligence artificielle générative (Rennes 2 &amp; MSHB)<br>
+Objectif : utiliser à certains moments du cours une IA générative comme aide à l’apprentissage.</p>
+<h2 id="pré-requis"><strong>Pré-requis</strong></h2>
+<p>Aucun pré-requis en programmation informatique.</p>
+<h2 id="objectifs-et-méthodes-d’apprentissage"><strong>Objectifs et méthodes d’apprentissage</strong></h2>
+<ul>
+<li>
+<p><strong>Compétences visées</strong> :<br>
+À l’issue de ce module, l’étudiant aura acquis les compétences suivantes :</p>
+<ul>
+<li>
+<p>Comprendre les concepts fondamentaux de la programmation (algorithme, variable, instruction, structure de contrôle).</p>
+</li>
+<li>
+<p>Appréhender les bases du langage JavaScript pour concevoir et écrire des programmes simples.</p>
+</li>
+<li>
+<p>Utiliser les entrées/sorties, les opérateurs, les structures conditionnelles et les répétitives dans un programme informatique.</p>
+</li>
+<li>
+<p>Manipuler des chaînes de caractères à l’aide des principales fonctions intégrées.</p>
+</li>
+<li>
+<p>Décomposer un problème simple, proposer une solution algorithmique et la mettre en œuvre en JavaScript.</p>
+</li>
+<li>
+<p>Tester, corriger et améliorer un programme.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="organisation-des-séances">Organisation des séances</h2>
+<h3 id="séance-1">Séance 1</h3>
+<ul>
+<li>
+<h4 id="introduction">Introduction</h4>
+<ul>
+<li>Concepts fondamentaux
+<ul>
+<li>programme informatique</li>
+<li>algorithme</li>
+<li>variable</li>
+<li>instructions</li>
+</ul>
+</li>
+<li>Traduction en langage informatique
+<ul>
+<li>présentation de Javascript et de son environnement</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h4 id="javascript--fonctions-de-base-et-opérateurs">Javascript : fonctions de base et opérateurs</h4>
+<ul>
+<li>Déclarer et utiliser des variables + notion de type de données</li>
+<li>Gérer les instructions d’entrée et de sortie</li>
+<li>Premiers programmes en javascript</li>
+</ul>
+</li>
+</ul>
+<h3 id="séance-2">Séance 2</h3>
+<ul>
+<li>
+<h4 id="javascript--fonctions-de-base-et-opérateurs-suite">Javascript : fonctions de base et opérateurs (suite)</h4>
+<ul>
+<li>Utiliser des opérateurs (mathématique et comparaison)</li>
+<li>Exercices</li>
+</ul>
+</li>
+<li>
+<h4 id="structures-conditionnelles">Structures conditionnelles</h4>
+<ul>
+<li>Intérêt</li>
+<li>Syntaxe</li>
+<li>Exercices applicatifs (conditionnelles simples)</li>
+<li>Branchements conditionnels à plusieurs niveaux</li>
+<li>Operateurs logiques pour la gestion des conditions multiple</li>
+</ul>
+</li>
+</ul>
+<h3 id="séance-3">Séance 3</h3>
+<ul>
+<li>
+<h4 id="structures-conditionnelles-suite">Structures conditionnelles (suite)</h4>
+<ul>
+<li>Exercices applicatifs</li>
+</ul>
+</li>
+<li>
+<h4 id="structures-répétitives-boucles">Structures répétitives (boucles)</h4>
+</li>
+<li>Intérêt</li>
+<li>Boucle FOR / WHILE</li>
+<li>Syntaxe WHILE
+<ul>
+<li>Exercices applicatifs</li>
+</ul>
+</li>
+</ul>
+<h3 id="séance-4">Séance 4</h3>
+<ul>
+<li>
+<h4 id="structures-répétitives-boucles-suite">Structures répétitives (boucles) (suite)</h4>
+<ul>
+<li>Syntaxe FOR
+<ul>
+<li>Exercices applicatifs</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h4 id="fonctions-chaînes-de-caractères">Fonctions chaînes de caractères</h4>
+<ul>
+<li>Méthodes pour :
+<ul>
+<li>obtenir la longueur d’une chaîne</li>
+<li>gérer la casse des caractères</li>
+</ul>
+</li>
+<li>Exercices applicatifs</li>
+</ul>
+</li>
+</ul>
+<h3 id="séance-5">Séance 5</h3>
+<ul>
+<li>
+<h4 id="fonctions-chaînes-de-caractères-suite">Fonctions chaînes de caractères (suite)</h4>
+<ul>
+<li>Méthodes pour :
+<ul>
+<li>extraire des caractères</li>
+<li>autres fonctions utiles</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h4 id="exercices-de-révision">Exercices de révision</h4>
+</li>
+</ul>
+<h2 id="liens-avec-les-autres-cours-de-la-formation"><strong>Liens avec les autres cours de la formation</strong></h2>
+<ul>
+<li>
+<p><strong>Positionnement  dans la formation</strong>  :<br>
+Ce cours constitue le  <strong>premier volet d’un parcours réparti sur  trois semestres</strong>  visant à initier progressivement les étudiants aux compétences informatiques utiles dans le cadre de leur formation en traduction, gestion de projet et rédaction technique.</p>
+<ul>
+<li>
+<p><strong>Semestre 7 – Initiation</strong><br>
+Ce premier semestre est consacré à <strong>la découverte et à la compréhension des principes fondamentaux de la programmation informatique</strong>. L’<strong>apprentissage du langage JavaScript</strong> servira de support pour initier les étudiants à l’écriture de code, à travers la réalisation de petits programmes simples.<br>
+L’objectif est de <strong>développer des bases solides en  logique algorithmique</strong> et en structuration de code.</p>
+</li>
+<li>
+<p><strong>Semestre 8 – Application orientée traduction</strong><br>
+Pendant ce semestre, les étudiants mettront en pratique les compétences acquises afin de concevoir des  <strong>programmes plus spécialisés</strong> en lien avec les besoins spécifiques du métier de traducteur. Pour cela, un nouveau langage de programmation,  <strong>Visual Basic</strong>, sera introduit  permettant aux étudiants de créer leurs premières macro-commandes.</p>
+</li>
+<li>
+<p><strong>Semestre 9 – Spécialisation (option - parcours Traduction)</strong><br>
+Ce dernier volet offre aux étudiants l’opportunité de <strong>mobiliser l’ensemble des compétences acquises</strong> à travers des projets concrets, directement ancrés dans les réalités de leur futur métier. L’accent est mis sur <strong>l’autonomie, la réutilisation du code</strong> et la <strong>résolution de problèmes pratiques</strong> rencontrés dans le champ de la traduction.</p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="évaluation">Évaluation</h2>
+<p>Ce cours est évalué par un <strong>examen terminal</strong> qui aura lieu à la fin du semestre.<br>
+Durée de l’épreuve : 1h<br>
+À noter : l’examen aura lieu sur papier (et non sur ordinateur)<br>
+Il prendra la forme de 2 ou 3 exercices. Pour chacun, il vous faudra décomposer un problème en  une série d’opérations (algorithme) et rédiger  le code correspondant en Javascript.</p>
+
+    </div>
+  </div>
+</body>
+
+</html>
